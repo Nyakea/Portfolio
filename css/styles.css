@@ -6,18 +6,22 @@
 }
 .test-box{
     border: 1px solid black;
+    background-color: teal;
     
 }
 .intro{
     background-image: url();
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: ;
-    color: rgb(46, 34, 12);
+    color: blanchedalmond;
 }
 img{
     float: right;
 }
 body{
     text-align: left;
+    background-image: url(/home/shalyn/Documents/my-portfolio/images/background6.jpeg);  
+    background-repeat: no-repeat;  
+    background-size: cover;
+    color: lavender;
 }
