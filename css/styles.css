@@ -1,3 +1,23 @@
+.container-fluid{
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
 .test-box{
-    border: 2px solid black;
+    border: 1px solid black;
+    
+}
+.intro{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: ;
+    color: rgb(46, 34, 12);
+}
+img{
+    float: right;
+}
+body{
+    text-align: left;
 }
