@@ -20,7 +20,7 @@ img{
 }
 body{
     text-align: left;
-    background-image: url(/home/shalyn/Documents/my-portfolio/images/background6.jpeg);  
+    background-image: url("../images/background6.jpeg");  
     background-repeat: no-repeat;  
     background-size: cover;
     color: lavender;
