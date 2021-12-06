@@ -10,7 +10,6 @@
     
 }
 .intro{
-    background-image: url();
     background-repeat: no-repeat;
     background-size: cover;
     color: blanchedalmond;
@@ -23,5 +22,14 @@ body{
     background-image: url(/home/shalyn/Documents/my-portfolio/images/background6.jpeg);  
     background-repeat: no-repeat;  
     background-size: cover;
+    color: lavender;
+}
+.sidebar{
+    width: 17%;
+    float: right;
+    background-color: sienna;
+    color: thistle;
+    
+}.container-fluid a{
     color: lavender;
 }
